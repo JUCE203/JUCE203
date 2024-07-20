@@ -1,6 +1,8 @@
-Julio Cesar Cordova Tapia
-This page is made as if I had made a design collaboration with the Nocturna Drift Club clothing brand.
+<h1>Julio Cesar Cordova Tapia</h1>
 
+<p>This page is made as if I had made a design collaboration with the Nocturna Drift Club clothing brand.</p>
+
+https://juce203.github.io/JUCE203/
 <!--
 **JUCE203/JUCE203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
